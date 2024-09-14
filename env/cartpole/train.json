@@ -1,0 +1,15 @@
+{
+    "batch_size": 32,
+    "beta": 0.01,
+    "c_coef": 1.0,
+    "device": "cuda:0",
+    "epsilon": 0.2,
+    "exp_reuse_rate": 10,
+    "gamma": 0.98,
+    "lambda_": 0.99,
+    "lr": 0.0001,
+    "name": "train",
+    "num_epochs": 1000,
+    "weights_path": null,
+    "optim_type":"adam"
+}

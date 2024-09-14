@@ -1,0 +1,7 @@
+{
+    "name": "runtime",
+    "num_processes": 1,
+    "plot_interval": 10,
+    "save_interval": 50,
+    "task_name": "task1"
+}

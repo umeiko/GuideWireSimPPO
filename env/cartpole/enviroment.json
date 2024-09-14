@@ -1,0 +1,10 @@
+{
+    "actions": 2,
+    "image_size": [
+        600,
+        700
+    ],
+    "input_dense": 4,
+    "max_steps": 100,
+    "name": "enviroment"
+}
